@@ -2,11 +2,8 @@
 
 Steps to run this in VS code :
 
-1. Navigate to File -> Preferences -> Settings.
-2. Type cwd in search.
-3. Choose Terminal > Integrated: Cwd settings.
-4. Type the default path you want to set in the text block below (simply, no need for double hashes to escape)
-5. No need for saving, It's automatic.
-6. Restart VS Code.
-
-Once the terminal path is set to your Python file, run it manually using "python file_name.py" and it would execute.   
+1. Make sure python.exe path is set in your environment variables.
+2. Open the terminal by searching for it in the dashboard or pressing win + r (type cmd) .
+3. Navigate cmd to the directory where the python file is located using the cd command.
+4. Type python FILENAME.py in the cmd to execute the script.
+   
