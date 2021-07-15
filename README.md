@@ -1,6 +1,6 @@
 # My_project
 
-Steps to run this in VS code :
+Steps to run :
 
 1. Make sure python.exe path is set in your environment variables.
 2. Open the terminal by searching for it in the dashboard or pressing win + r (type cmd) .
